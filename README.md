@@ -129,8 +129,7 @@ Usem esse espaço para manter uma lista de anotações e dicas como comandos do 
 
 1. referência -> link base para a formatação de um README (negrito e itálico): https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f#:~:text=You%20can%20write%20strong%20and,line%20for%20strong%2Fbold%20text.
 
-
-
+2. link explicando exercício anterior : https://support.zendesk.com/hc/pt-br/articles/4408846544922-Formata%C3%A7%C3%A3o-de-texto-com-Markdown#topic_xqx_mvc_43__row_lhh_xln_1n
 
 3. 
 - É importante seguir os passos na ordem correta depois que acessar o VS code ao utilizar o git:
@@ -140,11 +139,4 @@ Usem esse espaço para manter uma lista de anotações e dicas como comandos do 
   - push
   - merge/pull request 
 
-
-
-
-
-
-
-2. link explicando exercício anterior : https://support.zendesk.com/hc/pt-br/articles/4408846544922-Formata%C3%A7%C3%A3o-de-texto-com-Markdown#topic_xqx_mvc_43__row_lhh_xln_1n
-
+4. É importante não esquecer o passo a passo. Primeiro fazemos um fork e colocamos os contribuintes com o add. Depois, clonamos e criamos um branch( clicar no botão do meio e depois nos ...). Para fazer o commit, precimos escrever uma mensagem, senão da erro. Após isso, publicamos o branch e crimaos o pull request. Para ele ser feito, adicionamos uma pessoa contribuinte do projeto para revisar e fazer o merge (boas práticas).
