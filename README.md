@@ -127,7 +127,7 @@ Anotações
 
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
-1. link base para a formatação de um README (negrito e itálico): https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f#:~:text=You%20can%20write%20strong%20and,line%20for%20strong%2Fbold%20text.
+1. referência -> link base para a formatação de um README (negrito e itálico): https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f#:~:text=You%20can%20write%20strong%20and,line%20for%20strong%2Fbold%20text.
 
 
 
