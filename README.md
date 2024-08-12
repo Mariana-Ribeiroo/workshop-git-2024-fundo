@@ -128,6 +128,10 @@ Anotações
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
 1.
+2.
+3.
+
+4. É importante não esquecer o passo a passo. Primeiro fazemos um fork e colocamos os contribuintes com o add. Depois, clonamos e criamos um branch( clicar no botão do meio e depois nos ...). Para fazer o commit, precimos escrever uma mensagem, senão da erro. Após isso, publicamos o branch e crimaos o pull request. Para ele ser feito, adicionamos uma pessoa contribuinte do projeto para revisar e fazer o merge (boas práticas).
 
 
 
