@@ -146,5 +146,5 @@ Usem esse espaço para manter uma lista de anotações e dicas como comandos do 
 
 
 
-
+2. link explicando exercício anterior : https://support.zendesk.com/hc/pt-br/articles/4408846544922-Formata%C3%A7%C3%A3o-de-texto-com-Markdown#topic_xqx_mvc_43__row_lhh_xln_1n
 
