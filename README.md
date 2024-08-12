@@ -62,9 +62,9 @@ Tutorial de como formatar o texto de um README. Iremos abordar como colocar o te
 #### Itálico
 
 Como colocar o texto de um README para itálico?
- - deve-se colocar a sessão do texto que se quer colocar em itálico entre um asterisco (um asterisco de cada lado). 
+ - deve-se colocar a sessão do texto que se quer colocar em itálico entre um underline ou asterisco (um underline de cada lado ou um asterisco de cada lado). 
  
- Por exemplo: *itálico* ou *texto em itálico*.
+ Por exemplo: _itálico_ ou _texto em itálico_ ou *itálico* ou *texto em itálico*.
 
 #### Negrito
 
@@ -127,7 +127,7 @@ Anotações
 
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
-1.
+1. link base para a formatação de um README (negrito e itálico): https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f#:~:text=You%20can%20write%20strong%20and,line%20for%20strong%2Fbold%20text.
 
 
 
