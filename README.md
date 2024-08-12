@@ -131,3 +131,20 @@ Usem esse espaço para manter uma lista de anotações e dicas como comandos do 
 
 
 
+
+3. 
+- É importante seguir os passos na ordem correta depois que acessar o VS code ao utilizar o git:
+  - clone
+  - brach
+  - commit 
+  - push
+  - merge/pull request 
+
+
+
+
+
+
+
+
+
